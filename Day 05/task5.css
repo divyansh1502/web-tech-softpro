@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.row1 {
+    height: 18%;
+    width: 100%;
+    display: flex;
+}
+.box1 {
+    height: 100%;
+    width: 15%;
+    background-color: red;
+}
+.box2 {
+    height: 100%;
+    width: 70%;
+    background-color: rgb(219, 120, 120);
+}
+.row2 {
+    height: 24%;
+    width: 100%;
+    display: flex;
+}
+.box21 {
+    height: 100%;
+    width: 50%;
+    background-color: palevioletred;
+}
+.box22 {
+    height: 100%;
+    width: 50%;
+}
+.box22r1 {
+    height: 50%;
+    width: 100%;
+    background-color: blueviolet;
+}
+.box22r2 {
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+.b22r21 {
+    height: 100%;
+    width: 50%;
+    background-color: purple;
+}
+.b22r22 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(90, 146, 168);
+}
+.row3 {
+    height: 24%;
+    width: 100%;
+    display: flex;
+}
+.box31 {
+    height: 100%;
+    width: 50%;
+    background-color: skyblue;
+}
+.box32 {
+    height: 100%;
+    width: 50%;
+    background-color: palevioletred;
+}
+.row4 {
+    height: 34%;
+    width: 100%;
+    display: flex;
+}
+.box41 {
+    height: 50%;
+    width: 50%;
+}
+.box411 {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(59, 155, 168);
+}
+.box412 {
+    height: 100%;
+    width: 100%;
+    background-color: blueviolet;
+}
+.box42 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(128, 101, 153);
+}

@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+html, body {
+  height: 10vh;
+  width: 100vw;
+}
+.row1 {
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+}
+.box1 {
+    height: 50vh;
+    width: 50vw;
+    background-color: rgb(155, 226, 105);
+}
+.box2 {
+    height: 50vh;
+    width: 50vw;
+    background-color: rgb(0, 167, 8);
+}
+.row2 {
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+}
+.box3 {
+    height: 50vh;
+    width: 50vw;
+    background-color: rgb(0, 167, 8);
+}
+.r1 {
+    display: flex;
+    height: 50%;
+    width: 100%;
+}
+.b1 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(30, 71, 32);
+}
+.r2 {
+    display: flex;
+    height: 50%;
+    width: 100%;
+}
+.b3 {
+    height: 100%;
+    width: 100%;
+}
+.b31 {
+    height: 25%;
+    width: 100%;
+    background-color: rgb(79, 54, 25);
+}
+.b32 {
+    height: 25%;
+    width: 100%;
+    background-color: rgb(122, 90, 51);
+}
+.b33 {
+    height: 25%;
+    width: 100%;
+    background-color: rgb(164, 123, 73);
+}
+.b34 {
+    height: 25%;
+    width: 100%;
+    display: flex;
+}
+.b341 {
+    height: 100%;
+    width: 33%;
+    background-color: rgb(79, 54, 25);
+}
+.b342 {
+    height: 100%;
+    width: 34%;
+    background-color: rgb(122, 90, 51);
+}
+.b343 {
+    height: 100%;
+    width: 33%;
+    background-color: rgb(79, 54, 25);
+}
+.b4 {
+    height: 100%;
+    width: 100%;
+}
+.r41 {
+    display: flex;
+    height: 50%;
+    width: 100%;
+}
+.b41 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(30, 71, 32);
+}
+.b42 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(78, 198, 140);
+}
+.r42 {
+    display: flex;
+    height: 50%;
+    width: 100%;
+}
+.b421 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(155, 226, 105);
+}
+.b422 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(243, 243, 243);
+}
+
+.r4 {
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+.b4221 {
+    height: 100%;
+    width: 50%;
+    background-color: yellow;
+}
+.b4222 {
+    height: 100%;
+    width: 50%;
+    background-color: black;
+}
+.r5 {
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+.b42251 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(0, 0, 0);
+}
+.b42252 {
+    height: 100%;
+    width: 50%;
+    background-color: yellow;
+}
+
