@@ -19,12 +19,12 @@ html,body {
 .box1 {
     height: 100%;
     width: 100%;
-    background-color: rgb(221, 174, 6);
+    background-color: rgb(255, 128, 0);
 }
 .box2 {
     height: 100%;
     width: 100%;
-    background-color: rgb(215, 193, 132);
+    background-color: rgb(252, 224, 150);
 }
 .right1 {
     height: 200%;
@@ -33,7 +33,7 @@ html,body {
 .box3 {
     height: 50%;
     width: 100%;
-    background-color: crimson;
+    background-color:rgb(255, 41, 41);
 }
 .row2 {
     display: flex;
@@ -47,7 +47,7 @@ html,body {
 .box4 {
     height: 50%;
     width: 100%;
-    background-color:crimson;
+    background-color:rgb(255, 41, 41);
 }
 .right2 {
     height: 50%;
@@ -56,10 +56,10 @@ html,body {
 .box5 {
     height: 100%;
     width: 100%;
-    background-color: rgb(221, 174, 6);
+    background-color: rgb(255, 128, 0);
 }
 .box6 {
     height: 100%;
     width: 100%;
-    background-color:  rgb(215, 193, 132);
+    background-color:  rgb(252, 224, 150);
 }
