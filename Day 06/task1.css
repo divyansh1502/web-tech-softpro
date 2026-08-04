@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#box1 {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(253, 178, 178);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+#box2 {
+    height: 500px;
+    width: 400px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+#gap {
+    height: 30px;
+}
+.row1 {
+    height: 80px;
+    width: 800px;
+    gap: 25px;
+}
+#rl {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px 50px 0px 50px;
+    float: left;
+    background-color: yellow;
+    margin-left: 100px;
+}
+#rr {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px 50px 50px 0px;
+    background-color: yellow;
+    float: left;
+    margin-left: 20px;
+}
+#redcenter {
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    background-color: red;
+    margin-left: 170px;
+}
+.row2 {
+    height: 80px;
+    width: 400px;
+}
+#r2l {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px 0px 50px 50px;
+    background-color: yellow;
+    float: left;
+    margin-left: 100px;
+}
+#r2r {
+    height: 80px;
+    width: 80px;
+    border-radius: 0px 50px 50px 50px;
+    background-color: yellow;
+    float: left;
+    margin-left: 20px;
+}
+#main {
+    height: 250px;
+    width: 400px;
+}
+#l1 {
+    height: 40px;
+    width: 80px;
+    background-color: green;
+    border-radius: 0px 50px ;
+    float: left;
+    margin-left: 90px;
+    margin-top: 80px;
+}
+.s1 {
+    height: 180px;
+    width: 5px;
+    background-color: green;
+    float: left;
+    margin-right: 40px;
+}
+.s2 {
+    height: 180px;
+    width: 5px;
+    background-color: rgb(59, 92, 59);
+    float: left;
+}
+#l2 {
+    height: 40px;
+    width: 80px;
+    background-color: green;
+    border-radius: 50px 0px ;
+    float: left;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+#pot {
+    height: 10px;
+    width: 400px;
+}
+#u {
+    height: 10px;
+    width: 120px;
+    background-color: blue;
+    margin-top: 180px;
+    margin-left: 140px;
+    border-radius: 30px;
+}
+#l {
+    height: 60px;
+    width: 80px;
+    background-color: blue;
+    margin-left: 160px;
+    border-radius: 0px 0px 30px 30px;
+}
+#sun {
+    height: 70px;
+    width: 70px;
+    background-color: orangered;
+    margin-left: 330px;
+    border-radius: 50px;
+    box-shadow: 7px 7px 15px yellow;
+}
