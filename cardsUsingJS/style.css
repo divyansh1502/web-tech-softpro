@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#main {
+    height: 100%;
+    width: 100%;
+    background-color: #222;
+    padding: 50px;
+}
+form {
+    
+}
+input {
+    padding: 5px 40px 5px 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+.btn {
+    padding: 10px 25px;
+    color: white;
+    background-color: rgb(6, 135, 92);
+    border: none;
+    border-radius: 5px;
+}
+.card {
+    max-width: 300px;
+    color: white;
+    margin-top: 40px;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid gray;
+}
+.profile {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-bottom: 7px;
+    overflow: hidden;
+}
+.profile img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.card h5{
+    margin-top: 5px;
+}
+.card p {
+    font-size: 10px;
+}
